@@ -22,7 +22,7 @@ public class Result {
 		        }
 			else if (percentage < 35 && percentage > 0) {
 						System.out.println("Fail!");
-				}
+			}
 			else
 			     System.out.println("Invalid Percentage");
 		}
